@@ -1,0 +1,12 @@
+body {
+  background-color: white;
+}
+
+#number #submitguess {
+  font-family: courier;
+}
+
+h1 {
+  color: teal;
+  text-align: center;
+}
